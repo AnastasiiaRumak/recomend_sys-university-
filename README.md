@@ -1,1 +1,2 @@
-# recomend_sys-university-
+# recomend_sys(university)
+лабораторные работы из курса "проектирование рекомендательных систем"
